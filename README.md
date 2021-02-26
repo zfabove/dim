@@ -15,8 +15,8 @@
 - [LONG SHADOW]
 
 |  Type | RPM  | Name  |
-| ------------ | ------------ | ------------ |
-|  ![](https://www.light.gg/Content/Images/kinetic-small-icon.png =20x20) |   |   |
+| :------------: | :------------: | :------------: |
+|  <img src="https://www.light.gg/Content/Images/kinetic-small-icon.png" width="18"> |72| [SUCCESSION]  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
@@ -24,7 +24,6 @@
 |   |   |   |
 |   |   |   |
 |   |   |   |
-
 
 
 
