@@ -1,14 +1,14 @@
-#DIM
+# DIM
 > Note: braindead rolls pick
 
-##1
-###Sniper Rifle
-####Kinetic
-######Aggressive Frame
+## 1
+### Sniper Rifle
+#### Kinetic
+###### Aggressive Frame
 - [SUCCESSION]
 - [FROZEN ORBIT]
 
-######Rapid-Fire Frame
+###### Rapid-Fire Frame
 - [IKELOS_SR_V1.0.2]
 
 ######Adaptive Frame
