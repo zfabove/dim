@@ -11,7 +11,7 @@
 ###### Rapid-Fire Frame
 - [IKELOS_SR_V1.0.2]
 
-######Adaptive Frame
+###### Adaptive Frame
 - [LONG SHADOW]
 
 |  Type | RPM  | Name  |
@@ -32,7 +32,7 @@
 
 
 
-####Grenade Launcher
+#### Grenade Launcher
 [//]: #
  [FROZEN ORBIT]: <https://www.light.gg/db/items/3473290087/frozen-orbit/>
  [TRUTHTELLER]: <https://www.light.gg/db/items/1946491241/truthteller/>
