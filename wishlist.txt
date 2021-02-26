@@ -1,0 +1,9 @@
+title:stuff
+description:sadge
+
+//frozen orbit
+//notes:test note1
+dimwishlist:item=3473290087&perks=839105230,1087426260,3400784728,1546637391#notes:pve dmg pepega
+dimwishlist:item=3473290087&perks=3400784728,1546637391#notes:pve dmg worth
+dimwishlist:item=3473290087&perks=3300816228,1546637391#notes:pve dmg
+
