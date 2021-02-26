@@ -3,27 +3,10 @@
 
 ## 1
 ### Sniper Rifle
-#### Kinetic
-###### Aggressive Frame
-- [SUCCESSION]
-- [FROZEN ORBIT]
-
-###### Rapid-Fire Frame
-- [IKELOS_SR_V1.0.2]
-
-###### Adaptive Frame
-- [LONG SHADOW]
-
-|  Type | RPM  | Name  |
-| :------------: | :------------: | :------------: |
-|  <img src="https://www.light.gg/Content/Images/kinetic-small-icon.png" width="18"> |72| [SUCCESSION]  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| 
+| ------------ | :------------: |
+| <img src="https://www.light.gg/Content/Images/kinetic-small-icon.png" width="18"> | [SUCCESSION]  |
+| <img src="https://www.light.gg/Content/Images/void-small-icon.png" width="18"> | 2  |
 
 
 
