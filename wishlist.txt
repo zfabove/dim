@@ -10,3 +10,4 @@ dimwishlist:item=3473290087&perks=3300816228,1546637391#notes:pve dmg
 //truthteller
 //notes:kinda toxic
 dimwishlist:item=1946491241&perks=409831596,3300816228,1683379515#notes: pvp
+dimwishlist:item=1946491241&perks=3798852852,409831596,3300816228,1683379515#notes: test
