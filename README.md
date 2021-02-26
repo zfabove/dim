@@ -6,7 +6,7 @@
 | ------ | ------ |
 | 140 | FROZEN ORBIT |
 
-[//]:
+[//]: #
  [FROZEN ORBIT]: <https://www.light.gg/db/items/3473290087/frozen-orbit/>
  [TRUTHTELLER]: <>
  [FIRST IN, LAST OUT]: <>
