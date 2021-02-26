@@ -3,7 +3,7 @@
 
 ## 1
 ### Sniper Rifle
-| 
+| ||
 | ------------ | :------------: |
 | <img src="https://www.light.gg/Content/Images/kinetic-small-icon.png" width="18"> | [SUCCESSION]  |
 | <img src="https://www.light.gg/Content/Images/void-small-icon.png" width="18"> | 2  |
