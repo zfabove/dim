@@ -1,7 +1,7 @@
 #DIM
 > Note: braindead rolls pick
 
-
+##1
 ###Sniper Rifle
 ####Kinetic
 ######Aggressive Frame
