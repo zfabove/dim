@@ -9,7 +9,7 @@ dimwishlist:item=3473290087&perks=3300816228,1546637391#notes:pve dmg
 
 //TRUTHTELLER
 //notes:kinda toxic
-dimwishlist:item=1946491241&perks=409831596,3300816228,1683379515#notes: pvp✔✖
+dimwishlist:item=1946491241&perks=409831596,3300816228,1683379515#notes: toxic
 
 //FIRST IN, LAST OUT
 dimwishlist:item=3616586446&perks=3250034553,106909392,3300816228,1546637391#notes: best(range)
