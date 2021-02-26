@@ -16,7 +16,7 @@
 | :------------: | :------------: |
 | <img src="https://www.light.gg/Content/Images/solar-small-icon.png" width="18"> | [IKELOS_SR_V1.0.2]  |
 #### Grenade Launcher
-######Lightweight Frame
+###### Lightweight Frame
 | | |
 | :------------: | :------------: |
 | <img src="https://www.light.gg/Content/Images/void-small-icon.png" width="18"> | [TRUTHTELLER]  |
